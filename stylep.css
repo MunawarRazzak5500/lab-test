@@ -1,0 +1,131 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+.one {
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin-left: 500px;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+.two {
+    display: flex;
+    justify-content: space-between;
+    width: 750px;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+li {
+    display: inline;
+}
+
+hr {
+    color: red;
+}
+
+.three {
+    display: inline-block;
+    border: 1px solid red;
+    width: 580px;
+    background-color: Goldenrod;
+    margin-left: 28%;
+
+
+}
+
+h3 {
+    padding-left: 10px;
+}
+
+.per {
+    padding-left: 10px;
+}
+
+.Four {
+    display: inline-block;
+    border: 1px solid red;
+    width: 300px;
+    position: absolute;
+    left: 1130px;
+    background-color: Chocolate;
+    ;
+}
+
+.s {
+    width: 300px;
+}
+
+.five {
+    display: inline-block;
+    border: 1px solid red;
+    width: 280px;
+    position: absolute;
+    bottom: 350px;
+    right: 450px;
+    height: 171px;
+    background-color: seagreen;
+
+
+}
+
+.b {
+    position: relative;
+    left: 130px;
+    bottom: 150px;
+
+}
+
+.six {
+    display: inline-block;
+    margin-left: 450px;
+    margin-top: 5px;
+    height: 280px;
+    border: 1px solid red;
+    padding: 5px 5px 5px 5px;
+    background-color: grey;
+
+}
+
+
+
+
+.seven {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 12px;
+    height: 320px;
+    border: 1px solid red;
+    background-color: deepskyblue;
+    color: white;
+}
+
+.eight {
+    display: inline-block;
+    margin-bottom: 10%;
+    height: 320px;
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+}
+
+.scal {
+    margin-left: 10px;
+}
+
+.scale:hover {
+    scale: 1.1;
+
+}
+
+.zoom:hover {
+    scale: 1.1;
+
+}
